@@ -1,4 +1,4 @@
-# laterbase-dev
+# Laterbase
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-laterbase-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://laterbase.dev/
+Laterbase provides a shared workspace for AI coding agents to store and retrieve context, pins, and backlogs. Teams can connect various AI tools like Claude, Cursor, and GitHub Copilot, enabling agents to pin code snippets, track issues, and automate workflows. The platform offers plugins, documentation, and a dashboard for managing pins, reviewing test flakiness, and handling webhook retries, helping developers reduce toil and improve productivity.
+
+**Areas:** Company · AI · Collaboration · Productivity · Automation
+
+## Laterbase on APIs.io
+
+Everything profiled for Laterbase is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/laterbase-dev/](https://apis.io/providers/laterbase-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Laterbase API](https://apis.io/apis/laterbase-dev/laterbase-api/) — Connect your coding agent to Laterbase and see what each tool does.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Laterbase Authentication](https://apis.io/security/laterbase-dev/laterbase-dev-authentication/)
+- [Laterbase Domain Security](https://apis.io/security/laterbase-dev/laterbase-dev-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://laterbase.dev/)
+- [Documentation](https://laterbase.dev/docs)
+- [Blog](https://laterbase.dev/blog)
+- [Terms of service](https://laterbase.dev/terms)
+- [Privacy policy](https://laterbase.dev/privacy)
+
+## API Evangelist rating
+
+**Kin Score 17.8** — emerging · rubric 0.27.0 · scored 2026-11-15
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 34.2 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/laterbase-dev/](https://apis.io/providers/laterbase-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Laterbase: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/laterbase-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
